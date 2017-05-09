@@ -8,3 +8,27 @@ body {
   font-family: 'Varela Round', sans-serif;
 
 }
+
+nav {
+  background-color: #00BCD4;
+}
+
+.imageformat {
+  color: #00BCD4;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  padding-top: 20px;
+}
+
+.box2 {
+  background-color: #00BCD4;
+}
+.btn-primary {
+  border-color: #9AEDF4;
+    letter-spacing: 2px;
+    background-color: #00BCD4;
+}
+.btn-primary:hover {
+  border-color: #0B8AD7;
+}
